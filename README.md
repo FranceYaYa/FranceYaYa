@@ -1,4 +1,4 @@
 <div align="center">
-    <img src="content://media/external/downloads/1000002117" width="200">
+    <img src="makesweet-aofy17.gif" width="200">
 </div>
 
