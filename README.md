@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img tumblr_94a23fedbe6ec001441076e7658ab00f_742bd711_400.png" width="400">
+    <img tumblr_94a23fedbe6ec001441076e7658ab00f_742bd711_400.png" width="500">
 </div>
 
 <div align="center">
