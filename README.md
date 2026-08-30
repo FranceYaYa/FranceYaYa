@@ -10,4 +10,5 @@
     <img src="Untitled41_20260830141941.png" width="200">
 </div>
 
+<div align="center">
 　,, 　🇫🇷
