@@ -16,8 +16,4 @@
 
 [![ᴘᴏɴʏ ᴛᴏᴡɴ](https://shields.io)](https://pony.town)
 
-[![sᴇʀᴠᴇʀ](https://shields.io)](https://pony.town)
-
-[![sᴛᴀᴛᴜs](https://shields.io)](https://pony.town)
-
 </div>
