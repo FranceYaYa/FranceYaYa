@@ -13,8 +13,8 @@
 <div align="center">
 🇫🇷
 <div align="center">
-
-　,, 　
+div align="left">
+,, 　
 [![ᴘᴏɴʏ ᴛᴏᴡɴ](https://shields.io)](https://pony.town)
 
 </div>
