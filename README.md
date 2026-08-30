@@ -11,8 +11,4 @@
 </div>
 
 <div align="center">
-🇫🇷
-<div align="center">
-[![ᴘᴏɴʏ ᴛᴏᴡɴ](https://shields.io)](https://pony.town)
-
-</div>
+🇫�
