@@ -6,4 +6,8 @@
     <img src="tumblr_d1b1fbb77e3e2fd17177340c344382cb_3d6141a7_400.png" width="400">
 </div>
 
+<div align="center">
+    <img src="Untitled41_20260830141941.png" width="200">
+</div>
+
 
