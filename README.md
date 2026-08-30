@@ -12,10 +12,3 @@
 
 <div align="center">
 　,, 　🇫🇷
-<div align="center">
-
-![Pony Town](https://shields.io)
-![Server](https://shields.io)
-![Status](https://shields.io)
-
-</div>
