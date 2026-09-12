@@ -15,13 +15,9 @@ $$\color{navy}\text{‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
 <div align="center">
     <img src="7910444c16b7f43957b73639e5103138.jpg" width="500">
 </div>
-div align="center">
-    <img src="556cb6abe2bd18aa1bc0a772dedd1611.jpg" width="500">
-</div>
-div align="center">
-    <img src="98b5fb6d8660c1b1b58457ffb5b55391.jpg" width="500">
-</div>
 <div align="center">
-     <img src="bc4cc73dcf152af81c77b7156250ed62.jpg" width="600">
+    <img src="f42bbb062cc4485b56d633189f3421cd (1).jpg" width="600">
 </div>
-(wip) 
+
+$$\color{blue}\text{¢*н ƒяєєℓу    ,    ω2ι!!}$$
+
