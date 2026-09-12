@@ -13,6 +13,6 @@ $$\color{blue}\text{⚓╰  тнє σ¢єαη ιѕ ¢αℓℓιηg мє!}$$
 $$\color{navy}\text{‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵}$$
 
 <div align="center">
-     <img src="7910444c16b7f43957b73639e5103138.jpg> width="600"
+    <img src="7910444c16b7f43957b73639e5103138.jpg" width="500">
 </div>
 (wip) 
