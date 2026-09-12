@@ -1,5 +1,5 @@
 <div align = center>
-     <img src="0cad7df3a6bf45038a98fc6a498d7f71.jpg" width="400">
+     <img src="0cad7df3a6bf45038a98fc6a498d7f71.jpg" width="600">
 </div>
 
 $$\color{blue}\text{ιη тнє ηανу, ѕαιℓ тнє ѕєνєη ѕєαѕ! ๑ 🌊}$$
